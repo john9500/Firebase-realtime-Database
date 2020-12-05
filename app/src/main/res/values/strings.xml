@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase_real</string>
+
+    <array name="Department">
+        <item>CSE</item>
+        <item>ece</item>
+        <item>MECH</item>
+        <item>Automobile</item>
+    </array>
+</resources>

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "698023368320",
+    "firebase_url": "https://farm-care-7cab0.firebaseio.com",
+    "project_id": "farm-care-7cab0",
+    "storage_bucket": "farm-care-7cab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698023368320:android:785bb864f4e41fafcef865",
+        "android_client_info": {
+          "package_name": "com.example.firebase_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698023368320-o0fh9j70fhr5r1a8ehenahgpno442mjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_real",
+            "certificate_hash": "ea1bdbdeea39d4cf4229645307184031cf8ac216"
+          }
+        },
+        {
+          "client_id": "698023368320-bp8pshviu99ciojamlpslefj94dkr3iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKDm6hPSU6XMcm2q1TBV70gdbuw-8Rz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698023368320-bp8pshviu99ciojamlpslefj94dkr3iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698023368320:android:3efff2e635f5f355cef865",
+        "android_client_info": {
+          "package_name": "com.jesus.Farmcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698023368320-bp8pshviu99ciojamlpslefj94dkr3iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKDm6hPSU6XMcm2q1TBV70gdbuw-8Rz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698023368320-bp8pshviu99ciojamlpslefj94dkr3iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
